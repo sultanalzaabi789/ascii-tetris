@@ -14,3 +14,4 @@ Minimal terminal-based Tetris game written in Python and containerized with Dock
 ```bash
 docker build -t ascii-tetris .
 docker run -it --rm ascii-tetris
+# ascii-tetris
